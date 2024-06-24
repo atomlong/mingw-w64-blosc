@@ -1,6 +1,6 @@
 pkgbase = mingw-w64-blosc
 	pkgdesc = A blocking, shuffling and loss-less compression library (mingw-w64)
-	pkgver = 1.21.5
+	pkgver = 1.21.6
 	pkgrel = 1
 	url = http://blosc.org/
 	arch = any
@@ -13,7 +13,7 @@ pkgbase = mingw-w64-blosc
 	options = !buildflags
 	options = !strip
 	options = staticlibs
-	source = blosc-1.21.5.tar.gz::https://github.com/Blosc/c-blosc/archive/refs/tags/v1.21.5.tar.gz
-	sha256sums = 32e61961bbf81ffea6ff30e9d70fca36c86178afd3e3cfa13376adec8c687509
+	source = blosc-1.21.6.tar.gz::https://github.com/Blosc/c-blosc/archive/refs/tags/v1.21.6.tar.gz
+	sha256sums = 9fcd60301aae28f97f1301b735f966cc19e7c49b6b4321b839b4579a0c156f38
 
 pkgname = mingw-w64-blosc
